@@ -22,12 +22,12 @@ Veremos a continuación una lista ordenada y luego otra lista desordenada.
 
 ![alt text](/alu.jpg)
 
-Viste que agradable es utilizar este lenguaje, si quieres aprender mas visita el siguiente enlace que te dejare. [tittle](https://www.markdownguide.org/)
+Viste que agradable es utilizar este lenguaje, si quieres aprender mas visita el siguiente enlace que te dejare. [markdownguide](https://www.markdownguide.org/)
 
 
 **Aqui te dejo un enlase a un documento .md que tengo en mi repositorio de GitHub**.
-Contiene unas referencias para que continues aprendiendo. [tittle](https://github.com/aluvon/repo_IAW_mauricio/blob/main/doc2.md)
+Contiene unas referencias para que continues aprendiendo. [aluvon](https://github.com/aluvon/repo_IAW_mauricio/blob/main/doc2.md)
 
 ### Bibliografía:
 
-Yo he realizado este documento gracias al siguiente enlace: [tittle](https://www.markdownguide.org/cheat-sheet/)
+Yo he realizado este documento gracias al siguiente enlace: [markdownguide](https://www.markdownguide.org/cheat-sheet/)
