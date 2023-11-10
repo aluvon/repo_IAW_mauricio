@@ -1,0 +1,8 @@
+DB_HOST=servidor_mysql
+DB_USER=user1
+DB_PASS=asdasd
+DB_NAME=usuarios
+MYSQL_DATABASE=usuarios
+MYSQL_USER=user1
+MYSQL_PASSWORD=asdasd
+MYSQL_ROOT_PASSWORD=asdasd

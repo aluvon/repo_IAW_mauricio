@@ -2,6 +2,8 @@ FROM php:7.4-apache
 RUN apt-get update && apt-get install -y mariadb-client
 RUN docker-php-ext-install mysqli && docker-php-ext-enable mysqli
 ADD bookmedik /var/www/html/
+RUN chmod -R 755 /var/www/html/
+RUN chown -R www-data:www-data /var/www/html/
 EXPOSE 80
 ENV DB_USER user1
 ENV DB_PASS asdasd

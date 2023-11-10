@@ -1,1 +1,3 @@
 Este repositorio esta creado por un alumno y puede contener errores.
+
+El fichero env si lo quieres utilizar, colocale un PUNTO delante para que este oculto. Luego el docker-compose.yml buscara las varibles en el.
