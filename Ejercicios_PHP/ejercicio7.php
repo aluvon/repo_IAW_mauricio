@@ -1,4 +1,5 @@
 <?php
+//NO FUNCIONA
 read -p "Ingrese el valor de la compra: " valor;
 $ingreso = $valor;
 $total_compra = 34.5;
